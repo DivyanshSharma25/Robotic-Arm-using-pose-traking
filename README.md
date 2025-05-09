@@ -38,10 +38,7 @@ This project demonstrates a robotic arm controlled by pose tracking using a webc
 
 1. Clone this repository to your local machine.
 2. Connect the servo motors to the Arduino as per the circuit diagram.
-3. Install the required Python libraries:
-   ```bash
-   pip install mediapipe pyserial
-   ```
+3. Install the required Python libraries
 4. Upload the Arduino sketch to your Arduino board.
 5. Run the Python script to start the pose tracking and robotic arm control.
 
